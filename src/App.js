@@ -18,7 +18,9 @@ const content = [
   },
 ];
 
+
 export default function App() {
+
   return (
     <div>
       <Tabbed content={content} />
